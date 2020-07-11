@@ -4,7 +4,7 @@
 
 - 🔭 Working at Telkom Indonesia
 - 🌱 Having fun with React.js and his friends
-- 😄 Pronouns: He/Him/They/Them
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love foods
 
 * Twitter : [@perdana_famul](https://twitter.com/perdana_famul)
