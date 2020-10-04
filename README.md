@@ -2,7 +2,7 @@
 
 ### Iam a Front-end Developer based on Bandung
 
-- 🔭 Working at Telkom Indonesia
+- 🔭 Working at a Telecomunation Company
 - 🌱 Having fun with React.js and his friends
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love foods
