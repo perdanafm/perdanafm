@@ -7,5 +7,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love foods
 
-* Twitter : [@perdana_famul](https://twitter.com/perdana_famul)
 * Linkedin : [/in/perdanafm](https://www.linkedin.com/in/perdanafm/)
